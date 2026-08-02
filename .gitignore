@@ -6,4 +6,5 @@ cache
 .cache
 .temp
 *.local
-.workbuddy
+# 忽略workbuddy目录
+.workbuddy/
