@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
+  base: '/gavin-blog/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     //配置目录显示级为2至4
